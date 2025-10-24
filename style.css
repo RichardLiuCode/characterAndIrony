@@ -1,0 +1,14 @@
+.box {
+    background-color: white;
+    width: 700px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 4px lightgray;
+    font-family: arial;
+}
